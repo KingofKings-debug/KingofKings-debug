@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KingofKings
+- 👋 Hi, I’m @KingofKings-debug
 - 👀 I’m interested in learing new things in this computer world
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python,java,js,HTML,CSS.
 - 📫 How to reach me (Email-ad999qw@gmail.com)
 
 <!---
